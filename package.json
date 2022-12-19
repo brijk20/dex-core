@@ -1,5 +1,5 @@
 {
-  "name": "dxswap-core",
+  "name": "dex-core",
   "version": "0.3.6",
   "files": [
     "contracts",
