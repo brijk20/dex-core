@@ -34,5 +34,24 @@
     "factory": "0x1a22d99d1853b8804eA5c95C87dFdeF8A41f6C88",
     "feeReceiver": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
     "feeSetter": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1"
+  },
+  "tavalanche": {
+    "deployer": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
+    "factory": "0x1a22d99d1853b8804eA5c95C87dFdeF8A41f6C88",
+    "feeReceiver": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
+    "feeSetter": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1"
+  },
+  "tmatic": {
+    "deployer": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
+    "factory": "0x1a22d99d1853b8804eA5c95C87dFdeF8A41f6C88",
+    "feeReceiver": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
+    "feeSetter": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1"
+  },
+  "tbinance": {
+    "deployer": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
+    "factory": "0x1a22d99d1853b8804eA5c95C87dFdeF8A41f6C88",
+    "feeReceiver": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1",
+    "feeSetter": "0x0Be359427d9715E3aDC9AAac397b84f4ab42caF1"
   }
+
 }
